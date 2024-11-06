@@ -1,14 +1,14 @@
 
 ## hi, I am fnm04.sh
 
-polish bober, OnePlus 7 pro user, i just put my GitHub stats da
+polish bober, Samsung Galaxy S10 user, i just put my GitHub stats da
 
 
 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=fnm04-sh&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
   />
     <source
     srcset="https://github-readme-stats.vercel.app/api?username=fnm04-sh&show_icons=true"

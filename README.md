@@ -1,7 +1,7 @@
 
 ## hi, I am fnm04.sh
 
-polish bober, Google Pixel 6 Pro user,learn CSS, HTML and JavaScript, i just put my GitHub stats da
+polish bober, Xiaomi Mi 11 Lite user,learn CSS, HTML and JavaScript, i just put my GitHub stats da
 
 
 
